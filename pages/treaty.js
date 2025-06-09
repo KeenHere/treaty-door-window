@@ -50,7 +50,7 @@ export default function Treaty() {
         <b>Signed: 2025</b>
       </p>
       <blockquote className="quote" style={{ fontSize: "1.2rem" }}>
-        "Let history be the door through which we enter, and politics the window through which we see."
+        "Let Politics be the door through which we enter, and History the window through which we see."
       </blockquote>
       <h2>Preamble</h2>
       <p>
@@ -59,13 +59,13 @@ export default function Treaty() {
       <h2>Articles</h2>
       <ol>
         <li>
-          <b>The Door:</b> History is the door to knowledge. Through it, we enter the stories, lessons, and memories that shape our present.
+          <b>The Door:</b> Politics is the door to knowledge. Through it, we enter the stories, lessons, and memories that shape our present.
         </li>
         <li>
-          <b>The Window:</b> Politics is the window to action. Through it, we view the possibilities, choices, and responsibilities of our time.
+          <b>The Window:</b> History is the window to action. Through it, we view the possibilities, choices, and responsibilities of our time.
         </li>
         <li>
-          <b>Unity:</b> We pledge to explore history and politics together, seeing one as the threshold and the other as the outlook of human experience.
+          <b>Unity:</b> We pledge to explore politics and history together, seeing one as the threshold and the other as the outlook of human experience.
         </li>
         <li>
           <b>Dialogue:</b> We welcome debate, diverse perspectives, and the meeting of minds at this intersection.
