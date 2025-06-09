@@ -59,13 +59,13 @@ export default function Treaty() {
       <h2>Articles</h2>
       <ol>
         <li>
-          <b>The Door:</b> Politics is the door to knowledge. Through it, we enter the stories, lessons, and memories that shape our present.
+          <b>The Door:</b> Politics is the door to knowledge as philosophy in motion. It is the unfolding of human will, power, and ethical conflict across time.
         </li>
         <li>
-          <b>The Window:</b> History is the window to action. Through it, we view the possibilities, choices, and responsibilities of our time.
+          <b>The Window:</b> History is the window to action as philosophy in memory. It is not just a record of events, but the deeper narrative of power, struggle, and meaning in human life.
         </li>
         <li>
-          <b>Unity:</b> We pledge to explore politics and history together, seeing one as the threshold and the other as the outlook of human experience.
+          <b>Unity:</b> We pledge to explore politics and history together, seeing one as the threshold and the other as the outlook of human experience. Politics creates the world. History explains why it became what it is.
         </li>
         <li>
           <b>Dialogue:</b> We welcome debate, diverse perspectives, and the meeting of minds at this intersection.
